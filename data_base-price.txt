@@ -1,0 +1,16 @@
+small, Thin, 3, 0.5, 1
+small, Original, 3, 0.75, 2
+small, Pan, 3.5, 1, 3
+small, Gluten-Free, 4, 2, 4
+medium, Thin, 5, 1, 5
+medium, Original, 5, 1.5, 6
+medium, Pan, 6, 2.25,7 
+medium, Gluten-Free, 6.25, 3, 8
+Large, Thin, 8, 1.25, 9
+Large, Original, 8, 2, 10
+Large, Pan, 9, 3, 11
+Large, Gluten-Free, 9.5, 4, 12
+X-Large, Thin, 10, 2, 13
+X-Large, Original, 10, 3, 14
+X-Large, Pan, 11.5, 4.5, 15
+X-Large, Gluten-Free, 12.5, 6, 16

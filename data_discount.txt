@@ -1,0 +1,5 @@
+employee, 15, NULL,1
+Lunch Special Medium, NULL, 1,2
+Lunch Special Large, NULL, 2,3
+Specialty Pizza, NULL, 1.5,4
+Gameday special, 20, NULL,5
